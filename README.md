@@ -1,4 +1,4 @@
-# information Security
+# Information Security
 
 ## My Profile (edit)
 
